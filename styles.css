@@ -205,3 +205,17 @@ a.social:hover {
 
 }
 
+h1 {
+  background-color: #e2e2e2;
+  padding: 5px;
+}
+
+.section-title {
+  text-transform: capitalize;
+}
+
+  .main-image {
+    border: solid 2px black;
+    border-radius: 20%;
+
+}
